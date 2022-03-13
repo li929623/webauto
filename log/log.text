@@ -1,0 +1,314 @@
+root****INFO****    访问登录网站：https://store.shopxo.net/login.html
+root****INFO****    访问登录网站：https://store.shopxo.net/login.html
+root****INFO****    定位元素：('xpath', '//*[text()="帐号密码"]')
+root****INFO****    定位元素：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')
+root****INFO****    定位元素：('xpath', '//input[@placeholder="请输入登录密码"]')
+root****INFO****    定位元素：('xpath', '//input[@name="verify" and @type="text"]')
+root****INFO****    定位元素：('css selector', '[class="am-form form-validation-username"] [type="submit"]')
+root****INFO****    访问登录网站：https://store.shopxo.net/login.html
+root****INFO****    定位元素：('xpath', '//*[text()="帐号密码"]')
+root****INFO****    定位元素：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')
+root****INFO****    定位元素：('xpath', '//input[@placeholder="请输入登录密码"]')
+root****INFO****    定位元素：('xpath', '//input[@name="verify" and @type="text"]')
+root****INFO****    定位元素：('css selector', '[class="am-form form-validation-username"] [type="submit"]')
+root****INFO****    访问登录网站：https://store.shopxo.net/login.html
+root****INFO****    验证码：g94u
+root****INFO****    开始测试
+root****INFO****    元素定位：('xpath', '//*[text()="帐号密码"]')
+root****INFO****    输入：18616825424
+root****INFO****    元素定位：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')
+root****INFO****    输入：li929623152
+root****INFO****    元素定位：('xpath', '//input[@placeholder="请输入登录密码"]')
+root****INFO****    输入：g94u
+root****INFO****    元素定位：('xpath', '//input[@name="verify" and @type="text"]')
+root****INFO****    元素定位：('css selector', '[class="am-form form-validation-username"] [type="submit"]')
+root****INFO****    toast弹框内容：登录成功
+root****INFO****    访问登录网站：https://store.shopxo.net/login.html
+root****INFO****    验证码：IEmn
+root****INFO****    开始测试
+root****INFO****    元素定位：('xpath', '//*[text()="帐号密码"]')
+root****INFO****    输入账号：18616825424
+root****INFO****    元素定位：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')
+root****INFO****    输入密码：li929623152
+root****INFO****    元素定位：('xpath', '//input[@placeholder="请输入登录密码"]')
+root****INFO****    输入验证码：IEmn
+root****INFO****    元素定位：('xpath', '//input[@name="verify" and @type="text"]')
+root****INFO****    元素定位：('css selector', '[class="am-form form-validation-username"] [type="submit"]')
+root****INFO****    toast弹框内容：登录成功
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：t8v8
+root****INFO****    正在调用的登陆业务方法，用户名：18616825424 密码：li929623152 验证码：t8v8
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：验证码错误
+root****ERROR****    断言出错，错误信息： :: 登录成功 != 验证码错误
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：km3f
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：km3f
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：登录成功
+root****INFO****    断言成功
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：6u工g
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：6u工g
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：验证码错误
+root****ERROR****    断言出错，错误信息： :: 登录成功 != 验证码错误
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：Vfkb
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：Vfkb
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：登录成功
+root****INFO****    断言成功
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：9xvh
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：9xvh
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：登录成功
+root****INFO****    断言成功
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：44kr
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：44kr
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：登录成功
+root****INFO****    断言成功
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：nusr
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：nusr
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：登录成功
+root****INFO****    断言成功
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：7xrp
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：7xrp
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：登录成功
+root****INFO****    断言成功
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：t6wf
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：t6wf
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：登录成功
+root****INFO****    断言成功
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：RI8h
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：RI8h
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：登录成功
+root****INFO****    断言成功
+root****INFO****    正在调用搜索方法：商品名称秒杀
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：puf8
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：puf8
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：登录成功
+root****INFO****    断言成功
+root****INFO****    正在调用搜索方法：商品名称秒杀
+root****INFO****    访问网站：https://store.shopxo.net/
+root****INFO****    正在对：('id', 'search-input')元素进行点击操作
+root****INFO****    正在对：('id', 'ai-topsearch')元素进行点击操作
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：86工k
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：86工k
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：验证码错误
+root****ERROR****    断言出错，错误信息： :: 登录成功 != 验证码错误
+root****INFO****    正在调用搜索方法：商品名称秒杀
+root****INFO****    访问网站：https://store.shopxo.net/
+root****INFO****    正在对：('id', 'search-input')元素进行点击操作
+root****INFO****    正在对：('id', 'ai-topsearch')元素进行点击操作
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：4054
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：4054
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：验证码错误
+root****ERROR****    断言出错，错误信息： :: 登录成功 != 验证码错误
+root****INFO****    正在调用搜索方法：商品名称秒杀
+root****INFO****    访问网站：https://store.shopxo.net/
+root****INFO****    正在对：('id', 'search-input')元素进行点击操作
+root****INFO****    正在对：('id', 'ai-topsearch')元素进行点击操作
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：4xmu
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：4xmu
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：登录成功
+root****INFO****    断言成功
+root****INFO****    正在调用搜索方法：商品名称秒杀
+root****INFO****    访问网站：https://store.shopxo.net/
+root****INFO****    正在对：('id', 'search-input')元素进行点击操作
+root****INFO****    正在对：('id', 'ai-topsearch')元素进行点击操作
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：xhan
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：Itiy
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：Itiy
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    正在调用搜索方法：商品名称秒杀
+root****INFO****    访问网站：https://store.shopxo.net/
+root****INFO****    正在对：('id', 'search-input')元素进行点击操作
+root****INFO****    正在对：('id', 'ai-topsearch')元素进行点击操作
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：b69k
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：b69k
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：4Tkx
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：4Tkx
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    正在调用搜索方法：商品名称秒杀
+root****INFO****    访问网站：https://store.shopxo.net/
+root****INFO****    正在对：('id', 'search-input')元素进行点击操作
+root****INFO****    正在对：('id', 'ai-topsearch')元素进行点击操作
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：Ixu5
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：Ixu5
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    正在调用搜索方法：商品名称秒杀
+root****INFO****    访问网站：https://store.shopxo.net/
+root****INFO****    正在对：('id', 'search-input')元素进行点击操作
+root****INFO****    正在对：('id', 'ai-topsearch')元素进行点击操作
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：3txv
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：3txv
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    正在调用搜索方法：商品名称秒杀
+root****INFO****    访问网站：https://store.shopxo.net/
+root****INFO****    正在对：('id', 'search-input')元素进行点击操作
+root****INFO****    正在对：('id', 'ai-topsearch')元素进行点击操作
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：9bpd
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：9bpd
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    正在调用搜索方法：商品名称秒杀
+root****INFO****    访问网站：https://store.shopxo.net/
+root****INFO****    正在对：('id', 'search-input')元素进行点击操作
+root****INFO****    正在对：('id', 'ai-topsearch')元素进行点击操作
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：86uv
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：xb3e
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：36gh
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：kdf3
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：kdf3
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：登录成功
+root****INFO****    断言成功
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：wp76
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：wp76
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    获取toast弹框内容：登录成功
+root****INFO****    断言成功
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：XT3n
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：XT3n
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：7365
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：7365
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：Gngv
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：Gngv
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：xpfg
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：xpfg
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    访问网站：https://store.shopxo.net/login.html
+root****INFO****    获取验证码：ubjp
+root****INFO****    正在调用的登陆业务方法  用户名：18616825424 密码：li929623152 验证码：ubjp
+root****INFO****    正在对：('xpath', '//*[text()="帐号密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入用户名/手机/邮箱"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@placeholder="请输入登录密码"]')元素进行点击操作
+root****INFO****    正在对：('xpath', '//input[@name="verify" and @type="text"]')元素进行点击操作
+root****INFO****    正在对：('css selector', '[class="am-form form-validation-username"] [type="submit"]')元素进行点击操作
+root****INFO****    正在调用搜索方法：商品名称秒杀
+root****INFO****    访问网站：https://store.shopxo.net/
+root****INFO****    正在对：('id', 'search-input')元素进行点击操作
+root****INFO****    正在对：('id', 'ai-topsearch')元素进行点击操作
